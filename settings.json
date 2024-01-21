@@ -25,7 +25,7 @@
     "editor.smoothScrolling": true,
     "editor.tabCompletion": "on",
     "editor.wordWrap": "on",
-    "editor.cursorBlinking": "solid",
+    "editor.cursorBlinking": "smooth",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.find.seedSearchStringFromSelection": "never",
     "editor.fontLigatures": true,
