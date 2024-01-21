@@ -37,6 +37,7 @@
     "editor.hover.sticky": false,
     "editor.stickyScroll.enabled": false,
     "editor.stickyScroll.scrollWithEditor": false,
+    "editor.cursorSurroundingLines": 2,
 
     "files.enableTrash": false,
     "files.eol": "\r\n",
