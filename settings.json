@@ -1,0 +1,100 @@
+{
+    "editor.fontFamily": "Iosevka",
+    "editor.tabSize": 3,
+    "editor.renderWhitespace": "none",
+    "editor.bracketPairColorization.enabled": false,
+    "editor.colorDecoratorsActivatedOn": "click",
+    "editor.copyWithSyntaxHighlighting": false,
+    "editor.guides.bracketPairsHorizontal": false,
+    "editor.guides.highlightActiveBracketPair": false,
+    "editor.guides.highlightActiveIndentation": false,
+    "editor.guides.indentation": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.indentSize": "tabSize",
+    "editor.lineHeight": 1.7,
+    "editor.lineNumbers": "off",
+    "editor.matchBrackets": "never",
+    "editor.padding.top": 15,
+    "editor.renderLineHighlight": "none",
+    "editor.roundedSelection": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.enabled": false,
+    "editor.showDeprecated": false,
+    "editor.smoothScrolling": true,
+    "editor.tabCompletion": "on",
+    "editor.wordWrap": "on",
+    "editor.cursorBlinking": "solid",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.find.seedSearchStringFromSelection": "never",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 17,
+    "editor.suggest.preview": true,
+    "editor.suggestSelection": "recentlyUsed",
+    "editor.foldingHighlight": false,
+    "editor.occurrencesHighlight": "off",
+    "editor.hover.sticky": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.stickyScroll.scrollWithEditor": false,
+
+    "files.enableTrash": false,
+    "files.eol": "\r\n",
+    "files.refactoring.autoSave": false,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+
+    "workbench.startupEditor": "none",
+    "workbench.accounts.experimental.showEntitlements": false,
+    "workbench.list.smoothScrolling": true,
+    "workbench.localHistory.enabled": false,
+    "workbench.panel.opensMaximized": "always",
+    "workbench.reduceMotion": "off",
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.editor.showIcons": false,
+    "workbench.editor.tabActionCloseVisibility": false,
+    "workbench.editor.tabSizing": "fixed",
+    "workbench.statusBar.visible": false,
+    "workbench.iconTheme": null,
+    "workbench.tree.enableStickyScroll": false,
+
+    "workbench.colorCustomizations": {
+        "[Default Dark Modern]": {
+            "editorCursor.foreground": "#d1d5d9",
+            "editorCursor.background": "#2b2b2b"
+        }
+    },
+
+    "breadcrumbs.enabled": false,
+
+    "window.commandCenter": false,
+    "window.dialogStyle": "custom",
+    "window.titleSeparator": " • ",
+    "window.newWindowDimensions": "maximized",
+
+    "explorer.decorations.badges": false,
+    "explorer.incrementalNaming": "smart",
+
+    "extensions.ignoreRecommendations": true,
+
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.cursorStyleInactive": "none",
+    "terminal.integrated.enablePersistentSessions": false,
+    "terminal.integrated.fontSize": 17,
+    "terminal.integrated.lineHeight": 1.25,
+    "terminal.integrated.scrollback": 2000,
+    "terminal.integrated.shellIntegration.decorationsEnabled": "never",
+    "terminal.integrated.shellIntegration.suggestEnabled": true,
+    "terminal.integrated.stickyScroll.enabled": false,
+    "terminal.integrated.gpuAcceleration": "canvas",
+
+    "audioCues.chatResponsePending": "off",
+
+    "markdown.preview.markEditorSelection": false,
+
+    "telemetry.telemetryLevel": "off",
+
+    "vscode_custom_css.imports": [
+        "file:///C:/Apps/Microsoft VS Code Insiders/custom.css"
+    ],
+}

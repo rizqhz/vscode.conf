@@ -1,0 +1,24 @@
+* {
+   font-family: "Iosevka";
+}
+
+.window-appicon {
+   display: none !important;
+}
+
+.part.titlebar {
+   padding-left: 5px !important;
+}
+
+.tab {
+   padding: 0px 0px 0px 15px !important;
+}
+
+.monaco-workbench {
+   --vscode-focusBorder: #00000000 !important;
+   --vscode-list-activeSelectionBackground: #1d1d1d !important;
+   --vscode-list-focusOutline: #00000000 !important;
+   --vscode-list-focusBackground: #1d1d1d !important;
+   --vscode-list-hoverBackground: #1d1d1d !important;
+   --vscode-list-inactiveSelectionBackground: #1d1d1d !important;
+}
